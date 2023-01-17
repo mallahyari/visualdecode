@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkvisdecode_site=self.webpackChunkvisdecode_site||[]).push([[265],{4593:e=>{e.exports=JSON.parse('{"label":"line chart","permalink":"/visualdecode/blog/tags/line-chart","allTagsPath":"/visualdecode/blog/tags","count":1}')}}]);
