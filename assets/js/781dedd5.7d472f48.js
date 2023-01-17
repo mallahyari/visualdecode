@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkvisdecode_site=self.webpackChunkvisdecode_site||[]).push([[2261],{5315:e=>{e.exports=JSON.parse('{"permalink":"/visualdecode/blog/tags/hola","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
