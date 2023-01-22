@@ -21,3 +21,32 @@
   align-items: center;
   justify-content: center;
 }
+.image {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.image img {
+  border-radius: 50%;
+}
+
+.hero__title {
+  font-size: 2.5rem;
+  margin-bottom: 0;
+}
+.description {
+  text-align: left;
+}
+
+.social i {
+  color: white;
+  margin-right: 10px;
+}
+
+.social i:hover {
+  color: rgb(71, 81, 224);
+}
+.hero__subtitle {
+  margin-bottom: 5px;
+}
