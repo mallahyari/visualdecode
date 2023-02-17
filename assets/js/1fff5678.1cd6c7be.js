@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkvisdecode_site=self.webpackChunkvisdecode_site||[]).push([[710],{8615:e=>{e.exports=JSON.parse('{"label":"barplot","permalink":"/visualdecode/blog/tags/barplot","allTagsPath":"/visualdecode/blog/tags","count":1}')}}]);
