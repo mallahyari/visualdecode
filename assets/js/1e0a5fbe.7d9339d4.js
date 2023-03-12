@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkvisdecode_site=self.webpackChunkvisdecode_site||[]).push([[7497],{8818:a=>{a.exports=JSON.parse('{"label":"data analysis","permalink":"/visualdecode/blog/tags/data-analysis","allTagsPath":"/visualdecode/blog/tags","count":1}')}}]);

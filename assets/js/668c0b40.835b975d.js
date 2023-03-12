@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkvisdecode_site=self.webpackChunkvisdecode_site||[]).push([[2721],{384:e=>{e.exports=JSON.parse('{"label":"python","permalink":"/visualdecode/blog/tags/python","allTagsPath":"/visualdecode/blog/tags","count":1}')}}]);
